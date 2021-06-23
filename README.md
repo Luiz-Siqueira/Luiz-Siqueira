@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGomees1&layout=compact"
-    />
-  </a>
-</p>
+
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -46,8 +39,13 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/luiz-henrique-siqueira-4374a0204/">
     </a>
 </p>
+> 
 
-<p align="center"> 
-
-
-</p> 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Siqueira&layout=compact"
+    />
+  </a>
+</p>
