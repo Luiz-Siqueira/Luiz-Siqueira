@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas, 5° semestre.
+- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas, 6° semestre.
 - 🌱 Aprendendo HTML, CSS, Javascript, PHP, React Native e sempre aberto para novas linguagens.
 <br>
 <br>
