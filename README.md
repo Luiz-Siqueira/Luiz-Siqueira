@@ -3,8 +3,8 @@
 
 
 
-- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas, 6° semestre.
-- 🌱 Aprendendo HTML, CSS, Javascript, PHP, React Native e sempre aberto para novas linguagens.
+- 👨‍💻 Desenvolvedor Full Stack.
+- 🌱 HTML, CSS, Javascript, PHP, React, Node e sempre aberto para novas linguagens.
 <br>
 <br>
 <br>
