@@ -4,7 +4,7 @@
 
 
 - 👨‍💻 Desenvolvedor Full Stack.
-- 🌱 HTML, CSS, Javascript, PHP, React, Node e sempre aberto para novas linguagens.
+- 🌱 ReactJs, Node, SQL, HTML, CSS, Javascript, PHP e sempre aberto para novas linguagens.
 <br>
 <br>
 <br>
